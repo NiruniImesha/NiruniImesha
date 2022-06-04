@@ -5,7 +5,8 @@
 
 ### :bulb: About me:
 
-- 🔭 I’m Undergraduate at SLIIT.
+- 🔭 I’m Undergraduate at **SLIIT**.
+- 👨‍💻 following **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
 - 🌱 I’m currently studying Mobile Application Development, Springboot & React js.
 
 ### :hammer_and_wrench: Languages and Tools : 
