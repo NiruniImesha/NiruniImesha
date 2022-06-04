@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Niruni Dassanayake :woman:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width = "600" height = "500"/>
+  <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width = "600" height = "500"/>
 </div>
 
 ### :bulb: About me:
