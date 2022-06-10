@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width = "500" height = "400"/>
 </div>
+
 ### :bulb: About me:
 
 - 🔭 I’m Undergraduate at **SLIIT**.
