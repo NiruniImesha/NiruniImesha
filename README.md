@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width = "500" height = "400"/>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FC74AC&lines=Hello%2C+I'm+Niruni+Imesha)](https://git.io/typing-svg)
 ### :bulb: About me:
 
 - 🔭 I’m Undergraduate at **SLIIT**.
